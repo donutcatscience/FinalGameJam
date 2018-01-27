@@ -1,0 +1,32 @@
+{
+    "id": "e9c9c7e1-ed7d-4219-961b-96a18ca9736a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "e9c9c7e1-ed7d-4219-961b-96a18ca9736a",
+    "children": [
+        "b61075a0-f3b2-45bb-98cb-9ed070abdb1b",
+        "ef329d46-8fa2-43e9-a83e-3a62f9c03cc4",
+        "8d27a1ee-bc15-47de-999d-60e3b719a778",
+        "bbb423e9-28be-4ca6-8fd7-78f3ed3b8dcf",
+        "0a2ef69d-b123-477d-99be-d2865b08099e",
+        "1185d7cc-88c9-4266-9674-6c6f912f8816",
+        "292c666e-d333-4702-82a6-211d7feeb404",
+        "20cb80b0-58f8-4dea-8786-be4f6bd654e0",
+        "86022b7a-ae8f-4d18-b847-decc26803f7d",
+        "e5330b22-a0d9-4e1a-b5a1-9f7f9cdceac8",
+        "c2348160-e10e-418a-b6aa-85ca43850785",
+        "5bbd1722-2573-4078-ba35-2b0010524149",
+        "281598b1-3297-4c79-a2bb-cb68ce9c697c",
+        "88628f78-0f94-4780-a263-396eea10824a",
+        "d3f317a7-a8db-46b4-9eab-a5dd5f1971f0",
+        "14f6b8da-0cc4-4412-aab9-b45088372cc9",
+        "7043097f-d592-47c0-8eb4-1751678bb6c5",
+        "9cd1d1d6-9901-46e6-b41a-07500a1ac5f8",
+        "12df523d-b200-4d56-a53c-b76178f4e99d",
+        "ae727d6c-6243-4369-851a-6aaeea5c6ffc"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Claire Sprites",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
