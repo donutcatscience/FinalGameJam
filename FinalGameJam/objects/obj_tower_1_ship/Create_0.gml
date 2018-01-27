@@ -15,5 +15,3 @@ hspeed = hspd
 vspeed = vspd
 
 scr_shoot(spd)
-
-scr_shoot()
