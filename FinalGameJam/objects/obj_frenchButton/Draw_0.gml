@@ -10,9 +10,9 @@ draw_set_color(c_white);
 draw_set_font(KenFuture_30);
 
 if (global.language = "english"){
-	draw_text(centerWidth,centerHeight,"Start");
+	draw_text(centerWidth,centerHeight,"French");
 } else if (global.language = "spanish"){
-	draw_text(centerWidth,centerHeight,"Comienzo");
+	draw_text(centerWidth,centerHeight,"Francés");
 } else if (global.language = "french"){
-	draw_text(centerWidth,centerHeight,"Début");
+	draw_text(centerWidth,centerHeight,"Français");
 }

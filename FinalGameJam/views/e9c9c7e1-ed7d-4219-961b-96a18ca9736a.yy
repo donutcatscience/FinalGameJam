@@ -23,7 +23,8 @@
         "7043097f-d592-47c0-8eb4-1751678bb6c5",
         "9cd1d1d6-9901-46e6-b41a-07500a1ac5f8",
         "12df523d-b200-4d56-a53c-b76178f4e99d",
-        "ae727d6c-6243-4369-851a-6aaeea5c6ffc"
+        "ae727d6c-6243-4369-851a-6aaeea5c6ffc",
+        "a3e6851d-aa22-46c9-a2ec-72f45497b001"
     ],
     "filterType": "GMSprite",
     "folderName": "Claire Sprites",
