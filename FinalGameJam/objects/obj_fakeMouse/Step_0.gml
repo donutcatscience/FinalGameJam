@@ -9,3 +9,6 @@ if (mouse_y >= 880) {
 	obj_fakeMouse.sprite_index = spr_crossairHand;
 } else obj_fakeMouse.sprite_index = spr_crossairRed;
 
+//if statement for if mouse is within distance to deploy unit
+// obj_fakeMouse.sprite_index = spr_crossairGreen;
+

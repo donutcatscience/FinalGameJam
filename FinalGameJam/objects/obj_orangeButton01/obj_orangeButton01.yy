@@ -1,8 +1,8 @@
 {
-    "id": "35d782a1-4ab7-4844-b7c3-23ddb68360de",
+    "id": "5c0ededa-c7fa-472c-82c3-5b59deaea3a2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_button01",
+    "name": "obj_orangeButton01",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "38f85e70-78ec-4a5d-a9c0-9a6c11c68d42",
+    "spriteId": "4f6a4b19-c12c-4076-806c-579e287ba7e1",
     "visible": true
 }

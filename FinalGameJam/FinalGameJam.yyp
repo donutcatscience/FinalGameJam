@@ -290,7 +290,7 @@
             "Key": "35d782a1-4ab7-4844-b7c3-23ddb68360de",
             "Value": {
                 "id": "14362940-3344-4016-83b4-abc67051a82d",
-                "resourcePath": "objects\\obj_button01\\obj_button01.yy",
+                "resourcePath": "objects\\obj_greenButton01\\obj_greenButton01.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "42aa7d3f-6c6a-4bbb-95e6-8bdd50a18850",
             "Value": {
                 "id": "6462dbd6-f8eb-4e85-85b3-b586167ebff4",
-                "resourcePath": "fonts\\KenFuture_20\\KenFuture_20.yy",
+                "resourcePath": "fonts\\KenFuture_30\\KenFuture_30.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -346,7 +346,7 @@
             "Key": "443aa213-d3ec-4cdd-9c82-1e27ab84273c",
             "Value": {
                 "id": "5a0d89c7-6e4a-4dc9-a2c3-23f0c32e16ef",
-                "resourcePath": "fonts\\KenFutureThin_26\\KenFutureThin_26.yy",
+                "resourcePath": "fonts\\KenFutureThin_30\\KenFutureThin_30.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -426,7 +426,7 @@
             "Key": "5c0ededa-c7fa-472c-82c3-5b59deaea3a2",
             "Value": {
                 "id": "dd084378-6364-4f42-b891-14cef4ca7d79",
-                "resourcePath": "objects\\obj_button05\\obj_button05.yy",
+                "resourcePath": "objects\\obj_orangeButton01\\obj_orangeButton01.yy",
                 "resourceType": "GMObject"
             }
         },

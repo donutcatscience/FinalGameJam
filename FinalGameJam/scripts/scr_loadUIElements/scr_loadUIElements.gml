@@ -4,8 +4,8 @@
 scr_cursorController();
 
 //build buttons
-instance_create_layer(518,983,"UI",obj_button01);
-instance_create_layer(1013,983,"UI",obj_button05);
+instance_create_layer(512,880,"UI",obj_greenButton01);
+instance_create_layer(1310,880,"UI",obj_orangeButton01);
 
 //base bottom frames
 instance_create_layer(8,880,"UI",obj_baseLeftPlate);
