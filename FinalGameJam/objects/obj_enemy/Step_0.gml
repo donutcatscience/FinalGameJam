@@ -1,28 +1,70 @@
-hspeed = hspd
-vspeed = vspd
+////////////////////////////////////// 
+//SEEKER
 
-var velx = instance_nearest(self.x, self.y, obj_transmission_tower).x - self.x
-var vely = instance_nearest(self.x, self.y, obj_transmission_tower).y - self.y
 
-var magnitude = sqrt((velx*velx) + (vely*vely))
-
-if(magnitude > 0)
+if(obj_ship_red_seeker == 1 and instance_exists(obj_tower))
 {
-	unit_x = velx / magnitude
-	unit_y = vely / magnitude
+	scr_movement(spd, obj_tower)
+}
+else if(obj_ship_red_seeker == 1 and !instance_exists(obj_tower) and instance_exists(obj_colony))
+{
+	scr_movement(spd, obj_colony)
+}
+else if(obj_ship_red_seeker == 1 and !instance_exists(obj_colony) and instance_exists(obj_transmission_tower))
+{
+	scr_movement(spd, obj_transmission_tower)
 }
 
-velocity_x = unit_x * spd
-velocity_y = unit_y * spd
 
 
-var radians = arctan2(-unit_y, unit_x)
-image_angle = radtodeg(radians)
+///////////////////////////////////////
+//TANK
+
+if(obj_ship_green_tank == 1)
+{
+	if(cooldown >= 120)
+	{
+		cooldown = 0
+		spawn = 1
+	}
+	if(spawn = 0)
+	{
+		cooldown += 1
+	}
+	
+	if(obj_ship_green_tank == 1 and instance_exists(obj_enemy_target))
+	{
+		if(distance_to_object(obj_enemy_target) >= stop and instance_exists(obj_enemy_target))
+		{
+			spd = 8
+			scr_movement(spd, obj_enemy_target)
+		}
+		if(distance_to_object(obj_enemy_target) < stop and instance_exists(obj_enemy_target))
+		{
+			spd = 0
+			scr_movement(spd, obj_enemy_target)
+		}
+		if(distance_to_object(obj_enemy_target) <= range and spawn = 1 and instance_exists(obj_enemy_target))
+		{
+			instance_create_layer(self.x, self.y, "Instances", obj_ship_bullet)
+			spawn = 0 
+		}
+	}
+}
 
 
-hspd = velocity_x
-vspd = velocity_y
 
+//////////////////////////////////////////////////
+
+
+
+if(instance_exists(obj_enemy_target) and distance_to_object(obj_enemy_target) > range)
+{
+	if(distance_to_object(obj_enemy_target) >= stop)
+	{
+		scr_movement(spd, obj_enemy_target)
+	}
+}
 
 if (hp <= 0)
 {

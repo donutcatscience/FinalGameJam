@@ -2,10 +2,10 @@
     "id": "d96590f8-7c5d-460d-8ad4-689573cc7f21",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tower_1",
+    "name": "obj_tower",
     "eventList": [
         {
-            "id": "4b00bde4-9fd1-4e58-a9d5-b145ec4f7189",
+            "id": "57618ec0-88a7-41a2-a3bc-034fcc899d50",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "d96590f8-7c5d-460d-8ad4-689573cc7f21"
         },
         {
-            "id": "40f756c3-8e19-4b18-a02b-312ff73091c9",
+            "id": "b4e8979e-21f5-40a3-93de-5ce719c5c5cf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -42,7 +42,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
+    "solid": false,
     "spriteId": "d43e7a15-91eb-4524-adcb-c0d7bf9628b6",
     "visible": true
 }

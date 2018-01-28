@@ -5,7 +5,7 @@
     "name": "obj_tower_1_ship",
     "eventList": [
         {
-            "id": "a22506dc-d061-444e-9fd0-fe5987b6f93a",
+            "id": "59ca8e31-80c6-41ce-9725-e3ddda5a3ee4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "f20286c3-b93a-450e-9928-c7091d9c36c3"
         },
         {
-            "id": "353ba2af-23cb-40dd-a987-9e184dda5cfd",
+            "id": "7fa66b2c-e67c-4bc7-98c7-2bed9a643a79",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "f20286c3-b93a-450e-9928-c7091d9c36c3"
         },
         {
-            "id": "08b255c2-dcd9-4c9f-98af-406df1809b16",
+            "id": "60d00951-dac1-4ad5-82ae-13b42ada434a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -52,7 +52,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
+    "solid": false,
     "spriteId": "7799c4cb-83f6-43af-9121-d65874bc3673",
     "visible": true
 }

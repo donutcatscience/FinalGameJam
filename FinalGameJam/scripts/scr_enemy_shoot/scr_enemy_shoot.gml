@@ -4,13 +4,13 @@
 //scr_shoot(speed, obj_target)
 ///@param bulletspeed speed
 ///@param aggrotarget obj_target
-	
+
 spd = argument0
-obj_target = argument1
+obj_enemy_target = argument1
 
 
-var velx = instance_nearest(obj_target.x, obj_target.y, obj_enemy).x - self.x
-var vely = instance_nearest(obj_target.x, obj_target.y, obj_enemy).y - self.y
+var velx = instance_nearest(self.x, self.y, obj_enemy_target).x - self.x
+var vely = instance_nearest(self.x, self.y, obj_enemy_target).y - self.y
 
 var magnitude = sqrt((velx*velx) + (vely*vely))
 
