@@ -12,3 +12,6 @@ y_triangle = 0;
 
 //decreasing turn rate while at faster speeds variables
 turn_rate = 3;
+
+face_direction = 0
+angle_diff = 0

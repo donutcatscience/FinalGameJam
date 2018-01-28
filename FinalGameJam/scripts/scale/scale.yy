@@ -1,8 +1,8 @@
 {
-    "id": "3ca218d3-e2a2-4b32-b146-afa5e164bf69",
+    "id": "eef7b27c-4a08-4450-b49b-79c277224beb",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "spawn_objects1",
+    "name": "scale",
     "IsCompatibility": false,
     "IsDnD": false
 }

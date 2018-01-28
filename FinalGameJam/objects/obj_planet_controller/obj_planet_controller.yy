@@ -1,18 +1,28 @@
 {
-    "id": "b68379ab-94a8-4902-a5c1-39d0b038ec4a",
+    "id": "e7d1979a-6aa0-4fd7-9de7-09d1f808091d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_planets1",
+    "name": "obj_planet_controller",
     "eventList": [
         {
-            "id": "959ced54-863e-4288-9070-e26591d33c18",
+            "id": "34641348-0718-477b-beed-8a23e9e0ed77",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "b68379ab-94a8-4902-a5c1-39d0b038ec4a"
+            "m_owner": "e7d1979a-6aa0-4fd7-9de7-09d1f808091d"
+        },
+        {
+            "id": "d2e41684-9481-44f1-96f6-9efea5990630",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 82,
+            "eventtype": 9,
+            "m_owner": "e7d1979a-6aa0-4fd7-9de7-09d1f808091d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

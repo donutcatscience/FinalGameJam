@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "ce3f38e4-a219-4c97-978e-6ac54f6c9887",
     "children": [
-        "3ca218d3-e2a2-4b32-b146-afa5e164bf69"
+        "eef7b27c-4a08-4450-b49b-79c277224beb",
+        "1d691f93-c3f5-4f83-915c-8d6237980b80"
     ],
     "filterType": "GMScript",
     "folderName": "Ron Sprites",
