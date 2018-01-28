@@ -15,3 +15,7 @@ draw_text(290,910,"0000");
 draw_text(290,1000,"0000");
 draw_text(1510,910,"0000");
 draw_text(1510,1000,"0000");
+
+//Trans and Colony Health
+draw_text(150,960,"100%");
+draw_text(1690,960,"100%");

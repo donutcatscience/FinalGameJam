@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "440f15c0-d2cd-4c40-877c-ae2f7b60b80e",
+            "Value": {
+                "id": "c0e990a1-7a13-4a7e-bc19-910fccd5da5a",
+                "resourcePath": "sprites\\spr_colonyHealth\\spr_colonyHealth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "443aa213-d3ec-4cdd-9c82-1e27ab84273c",
             "Value": {
                 "id": "5a0d89c7-6e4a-4dc9-a2c3-23f0c32e16ef",
@@ -1100,6 +1108,14 @@
                 "id": "372e7330-dfe6-4ac2-88f7-4fc5c9c2b6ac",
                 "resourcePath": "views\\bf09ef8e-e133-4630-82ae-d321373ee556.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c18d8420-2694-454c-8fd0-2d5df76b5f7b",
+            "Value": {
+                "id": "47f33b2b-d12a-4547-aeb9-4a85c48ab6ef",
+                "resourcePath": "sprites\\spr_transHealth\\spr_transHealth.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
