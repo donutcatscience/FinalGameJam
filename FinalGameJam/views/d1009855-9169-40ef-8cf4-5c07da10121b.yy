@@ -9,7 +9,8 @@
         "eb4f3725-a89f-4897-877e-5a1b0591f5a7",
         "894f8713-06c7-443f-b36a-6a17724df1f9",
         "83e02382-9c3d-4915-9cdc-343b403beb5c",
-        "a2bf9608-bd82-4e9e-b5c3-59b28857bbe1"
+        "a2bf9608-bd82-4e9e-b5c3-59b28857bbe1",
+        "a6256917-727e-4250-82a1-d772f27e4f20"
     ],
     "filterType": "GMSprite",
     "folderName": "Anthony Sprites",
