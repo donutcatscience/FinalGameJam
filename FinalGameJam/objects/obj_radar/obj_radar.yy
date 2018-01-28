@@ -5,7 +5,7 @@
     "name": "obj_radar",
     "eventList": [
         {
-            "id": "20868bff-2728-4fa4-8941-7611054af12f",
+            "id": "783f6efe-d6c2-4267-b571-9cded0991904",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "ad220b5a-87ae-481f-9d52-a4e18e0f0072"
         },
         {
-            "id": "ed033988-8461-44c3-b044-f11c779e052a",
+            "id": "d29a5647-3269-42fe-9284-15f5a73b9c78",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

@@ -5,7 +5,7 @@
     "name": "obj_resource_manager",
     "eventList": [
         {
-            "id": "9c74956f-fdb0-43fc-a891-367a4e083000",
+            "id": "c067a6f3-a6e0-48ab-9e34-cd4558c07b8f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "032a5f22-7928-4703-ac77-b90700420ac3"
         },
         {
-            "id": "19dbe6ba-4c8f-4f4a-a103-0a8a8f57414e",
+            "id": "d6382d5c-dd5c-4d5f-a1ab-3abbb4a0ea7b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "032a5f22-7928-4703-ac77-b90700420ac3"
         },
         {
-            "id": "17ccaac4-75e6-414c-9d16-b7a0678c1e22",
+            "id": "a0287078-82ec-4606-8f0b-fedeb0705a41",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

@@ -7,7 +7,7 @@
         "9b1d2b08-b7ac-4388-aefa-e3763464637f"
     ],
     "filterType": "GMRoom",
-    "folderName": "Kevin Objects",
+    "folderName": "Kevin Rooms",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
