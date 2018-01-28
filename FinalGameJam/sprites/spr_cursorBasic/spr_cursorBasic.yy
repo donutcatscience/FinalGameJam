@@ -2,7 +2,7 @@
     "id": "1c9c1bf1-d666-49eb-9aa3-daf7c896fa12",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_cursorBaic",
+    "name": "spr_cursorBasic",
     "For3D": false,
     "HTile": false,
     "VTile": false,

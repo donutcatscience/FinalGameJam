@@ -8,3 +8,4 @@ y = mouse_y;
 if (mouse_y >= 880) {
 	obj_fakeMouse.sprite_index = spr_crossairHand;
 } else obj_fakeMouse.sprite_index = spr_crossairRed;
+

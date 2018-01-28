@@ -186,7 +186,7 @@
             "Key": "1c9c1bf1-d666-49eb-9aa3-daf7c896fa12",
             "Value": {
                 "id": "de693c42-9603-4d06-8035-7b631595a4f0",
-                "resourcePath": "sprites\\spr_cursorBaic\\spr_cursorBaic.yy",
+                "resourcePath": "sprites\\spr_cursorBasic\\spr_cursorBasic.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -343,11 +343,27 @@
             }
         },
         {
+            "Key": "42aa7d3f-6c6a-4bbb-95e6-8bdd50a18850",
+            "Value": {
+                "id": "6462dbd6-f8eb-4e85-85b3-b586167ebff4",
+                "resourcePath": "fonts\\KenFuture_20\\KenFuture_20.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "42e187a2-2302-4e45-b38f-822f7d223335",
             "Value": {
                 "id": "c4646fcc-52c5-4e48-8b85-21eec9564017",
                 "resourcePath": "objects\\obj_uiController\\obj_uiController.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "443aa213-d3ec-4cdd-9c82-1e27ab84273c",
+            "Value": {
+                "id": "5a0d89c7-6e4a-4dc9-a2c3-23f0c32e16ef",
+                "resourcePath": "fonts\\KenFutureThin_26\\KenFutureThin_26.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -515,6 +531,22 @@
             "Value": {
                 "id": "10a8e798-2c96-4ae3-ba79-3442286c32eb",
                 "resourcePath": "objects\\obj_baseLeftPlate\\obj_baseLeftPlate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "820b0710-718b-4a42-acf7-4caaf31d4573",
+            "Value": {
+                "id": "1467ba97-ab0b-4931-b220-e80ad5aee34c",
+                "resourcePath": "objects\\obj_uiTextController\\obj_uiTextController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "83dafd00-dc1e-4a6c-a0a3-7c76a6c43237",
+            "Value": {
+                "id": "fe60678d-6eb6-4331-80de-2eaa884b0ad2",
+                "resourcePath": "objects\\obj_levelController\\obj_levelController.yy",
                 "resourceType": "GMObject"
             }
         },
