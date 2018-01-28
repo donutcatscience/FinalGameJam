@@ -225,7 +225,7 @@
         {
             "Key": "1d691f93-c3f5-4f83-915c-8d6237980b80",
             "Value": {
-                "id": "8c88251d-b08d-47a8-8dbd-1ee7dec9a24d",
+                "id": "d1645fde-ed9a-413b-9600-2812d6401693",
                 "resourcePath": "scripts\\spawn_objects\\spawn_objects.yy",
                 "resourceType": "GMScript"
             }
@@ -593,7 +593,7 @@
         {
             "Key": "62b8d15d-7daf-40d2-977e-6a0f6256007b",
             "Value": {
-                "id": "f8842d2f-d4c9-4d6c-88f9-a6018c6c850f",
+                "id": "f98c9495-b9a4-4141-a9f9-6211e4e1c213",
                 "resourcePath": "objects\\obj_asteroid_controller\\obj_asteroid_controller.yy",
                 "resourceType": "GMObject"
             }
@@ -804,6 +804,14 @@
                 "id": "696745f8-7490-4564-887d-459562dd7f2c",
                 "resourcePath": "views\\90c5e1e6-11f7-43cd-9a9b-e47863466165.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "913ca00e-b27c-457a-9b84-7718fe9ed438",
+            "Value": {
+                "id": "c5a05b08-ab52-4a25-a226-9949e608604c",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1025,7 +1033,7 @@
         {
             "Key": "b550ebd3-7d43-4170-8ff2-6e50f74678d8",
             "Value": {
-                "id": "87faa877-5395-46e6-9c63-211f7e4d3fee",
+                "id": "9373dc94-f2cd-4945-b593-c34312663e56",
                 "resourcePath": "objects\\obj_comet\\obj_comet.yy",
                 "resourceType": "GMObject"
             }
@@ -1139,6 +1147,14 @@
             "Value": {
                 "id": "b6614abc-a007-4e91-8340-df98d56f3a09",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbd5fd94-61fe-4946-8a3b-09a0364d451f",
+            "Value": {
+                "id": "2fe93b17-c678-496a-a03e-362925b192c8",
+                "resourcePath": "sprites\\spr_comet\\spr_comet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1393,7 +1409,7 @@
         {
             "Key": "eef7b27c-4a08-4450-b49b-79c277224beb",
             "Value": {
-                "id": "6d12f041-101c-4b99-b3a0-77d9ccaa437f",
+                "id": "e9e141d8-7b28-44ba-8b45-5a498cbb5e00",
                 "resourcePath": "scripts\\scale\\scale.yy",
                 "resourceType": "GMScript"
             }

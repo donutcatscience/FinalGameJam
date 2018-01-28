@@ -5,7 +5,7 @@
     "name": "obj_comet",
     "eventList": [
         {
-            "id": "278ac709-af03-4649-825d-5dbe7cdce78c",
+            "id": "b995fc4f-2257-420c-b1a3-569e97f5fa7f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "b550ebd3-7d43-4170-8ff2-6e50f74678d8"
         },
         {
-            "id": "10167f29-e4e1-47eb-9c53-cc8dca9d76ce",
+            "id": "61be40f9-83d9-4c88-bcb9-bc78026d2965",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

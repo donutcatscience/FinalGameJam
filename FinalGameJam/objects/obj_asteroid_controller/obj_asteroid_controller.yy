@@ -5,7 +5,7 @@
     "name": "obj_asteroid_controller",
     "eventList": [
         {
-            "id": "02f0a7cb-c337-4509-9244-0febf5668f93",
+            "id": "0ee5093e-dbea-4719-b3a0-e3e0297f4200",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "62b8d15d-7daf-40d2-977e-6a0f6256007b"
         },
         {
-            "id": "d395aa8c-95b7-4982-913b-83b654735375",
+            "id": "53b422af-5ff8-4bee-b919-d0642d757d35",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

@@ -2,7 +2,7 @@ timer--;
 if(timer <= 0)
 {
 	timer = 30;
-	if(random(50) <= 10)
+	if(random(50) <= 1)
 	{
 		with(instance_create_layer(x,y,"asteroids",obj_asteroid))
 		{
