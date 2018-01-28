@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "917fe7c2-eecf-419c-b899-691f686ec25b",
+            "Value": {
+                "id": "3617ba31-2a6f-49f5-9a29-8e598669dfc0",
+                "resourcePath": "sprites\\spr_crossairGreen\\spr_crossairGreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "91eb8806-0972-45f2-abca-7fa149e961e2",
             "Value": {
                 "id": "5952b200-831d-4831-b925-597f91cd3cf0",
