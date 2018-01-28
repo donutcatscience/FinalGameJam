@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "0b661de9-6da0-4a86-bf27-9838e9d6db88",
+            "Value": {
+                "id": "ce9db910-1faf-4db6-bb3b-644dc97f3ee0",
+                "resourcePath": "objects\\obj_redToggleColonyAgro\\obj_redToggleColonyAgro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0cab6879-c8b5-406a-8873-50aee72c401d",
             "Value": {
                 "id": "2045b623-2f5d-4ec5-9b82-78bdd7ec9955",
@@ -354,7 +362,7 @@
             "Key": "35d782a1-4ab7-4844-b7c3-23ddb68360de",
             "Value": {
                 "id": "14362940-3344-4016-83b4-abc67051a82d",
-                "resourcePath": "objects\\obj_greenButton01\\obj_greenButton01.yy",
+                "resourcePath": "objects\\obj_greenHackDrone\\obj_greenHackDrone.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "4adf68dd-8826-4d5a-90c8-90a528a41a68",
+            "Value": {
+                "id": "7c1dce4f-5117-4c21-b35f-9abb2213f522",
+                "resourcePath": "views\\4adf68dd-8826-4d5a-90c8-90a528a41a68.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4bb6848d-a5cc-4707-a867-95e19d129f4d",
             "Value": {
                 "id": "54a34f8a-cc92-4a7c-88fb-919229ad7483",
@@ -519,6 +535,14 @@
             }
         },
         {
+            "Key": "576940ba-fd1d-4337-9b5b-0b24245ecbd9",
+            "Value": {
+                "id": "8018b084-fbe6-4751-be87-5263960cc5ec",
+                "resourcePath": "sprites\\spr_redToggleOff\\spr_redToggleOff.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bbd1722-2573-4078-ba35-2b0010524149",
             "Value": {
                 "id": "e65e2505-809f-4513-ba78-2e971cea4707",
@@ -530,7 +554,7 @@
             "Key": "5c0ededa-c7fa-472c-82c3-5b59deaea3a2",
             "Value": {
                 "id": "dd084378-6364-4f42-b891-14cef4ca7d79",
-                "resourcePath": "objects\\obj_orangeButton01\\obj_orangeButton01.yy",
+                "resourcePath": "objects\\obj_orangeAutoCannon\\obj_orangeAutoCannon.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -735,6 +759,14 @@
             }
         },
         {
+            "Key": "8b22102c-b9b8-4f50-997c-b381ddc1ba55",
+            "Value": {
+                "id": "ae961732-96f0-44fa-9ccc-aca3fde91661",
+                "resourcePath": "objects\\obj_greenShotgunDrone\\obj_greenShotgunDrone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d27a1ee-bc15-47de-999d-60e3b719a778",
             "Value": {
                 "id": "28c7c797-9ba2-4eab-9623-a97ac5c6bda1",
@@ -919,11 +951,35 @@
             }
         },
         {
+            "Key": "aee7da9a-224f-477d-9229-8e3fb0dd5e9a",
+            "Value": {
+                "id": "26284c6f-7d22-410a-9b74-c845575298c7",
+                "resourcePath": "objects\\obj_greenHarvester\\obj_greenHarvester.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b1408b88-64db-423c-ba04-92c252aee2b0",
             "Value": {
                 "id": "5c18da4f-f565-4cba-96e6-25698d4f1965",
                 "resourcePath": "views\\b1408b88-64db-423c-ba04-92c252aee2b0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b1478b98-48de-4b11-816f-8ca55d8255d6",
+            "Value": {
+                "id": "637c2e91-4ebd-4937-b325-b32166504bae",
+                "resourcePath": "objects\\obj_orangeHarvestStatus02\\obj_orangeHarvestStatus02.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b22cd003-fad1-4de9-b5cd-0509a6319197",
+            "Value": {
+                "id": "940dcc0a-ee28-4354-8d04-81acb15bad9a",
+                "resourcePath": "objects\\obj_orangeHeavyCannon\\obj_orangeHeavyCannon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -988,6 +1044,14 @@
                 "id": "e364a56a-60cc-4c4f-83f2-04ac7672e103",
                 "resourcePath": "views\\bc02b54f-cbf8-4acf-811e-cb2c70fcb1be.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bcdc2e46-c841-471b-821b-dfccf60c9489",
+            "Value": {
+                "id": "44c5fcba-5b57-446d-9baf-760ebf69c477",
+                "resourcePath": "objects\\obj_orangeRailGun\\obj_orangeRailGun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1071,6 +1135,22 @@
             }
         },
         {
+            "Key": "cd50d15f-a4b4-45ef-9e95-a9a616ce5f17",
+            "Value": {
+                "id": "829315a1-3b4f-4516-a12b-2c45a476162a",
+                "resourcePath": "objects\\obj_orangeHarvestStatus03\\obj_orangeHarvestStatus03.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ce13f3fa-542a-404a-a1c7-0b6fd93f5e33",
+            "Value": {
+                "id": "ff3c691b-db0e-48ba-b5c5-dab3082fff2f",
+                "resourcePath": "objects\\obj_greenEMPDrone\\obj_greenEMPDrone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ce3f38e4-a219-4c97-978e-6ac54f6c9887",
             "Value": {
                 "id": "2ce4e29a-c94e-48aa-be2e-d376d560a7df",
@@ -1107,6 +1187,14 @@
             "Value": {
                 "id": "8aac336c-cac7-4a46-8de9-5ba08cac62d8",
                 "resourcePath": "objects\\obj_baseRightPlate\\obj_baseRightPlate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d82fa03b-6a1a-4d86-84c8-105276a3577c",
+            "Value": {
+                "id": "4db62b77-00bd-4f77-a45f-be7b334b80de",
+                "resourcePath": "objects\\obj_greenDroneTower\\obj_greenDroneTower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1172,6 +1260,22 @@
                 "id": "b4d842a2-918b-4c01-9ea7-3b2b6070cbdc",
                 "resourcePath": "sprites\\spr_Planet_01\\spr_Planet_01.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e54c01bf-fdd7-4d33-afc6-c71f21894e36",
+            "Value": {
+                "id": "ed3c231c-d70c-42e7-a255-11af67fb3c3a",
+                "resourcePath": "objects\\obj_orangeHarvestStatus01\\obj_orangeHarvestStatus01.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e554a701-3632-4cca-a580-26f937c72f8c",
+            "Value": {
+                "id": "f037db1f-1ccf-4c82-bf53-989bca28343f",
+                "resourcePath": "views\\e554a701-3632-4cca-a580-26f937c72f8c.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1247,6 +1351,14 @@
             }
         },
         {
+            "Key": "edcfa81e-d018-44f6-9ee9-8aac7664ea39",
+            "Value": {
+                "id": "6f824b36-8b5b-4613-8606-6021e38d4c7a",
+                "resourcePath": "objects\\obj_greenMissleTower\\obj_greenMissleTower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eef7b27c-4a08-4450-b49b-79c277224beb",
             "Value": {
                 "id": "6d12f041-101c-4b99-b3a0-77d9ccaa437f",
@@ -1268,6 +1380,14 @@
                 "id": "862c1e9a-a317-44a5-a5d3-9137ab5c277b",
                 "resourcePath": "views\\f271bb8b-f378-4a6b-8187-31cf95c66daf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f31705ec-bbd2-4d99-8cd3-00690d4c2e35",
+            "Value": {
+                "id": "958f87d4-04f4-41a3-8fb9-e4a5a8907744",
+                "resourcePath": "objects\\obj_redToggleTransAgro\\obj_redToggleTransAgro.yy",
+                "resourceType": "GMObject"
             }
         },
         {

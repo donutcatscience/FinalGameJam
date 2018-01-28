@@ -1,18 +1,18 @@
 {
-    "id": "35d782a1-4ab7-4844-b7c3-23ddb68360de",
+    "id": "8b22102c-b9b8-4f50-997c-b381ddc1ba55",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_greenButton01",
+    "name": "obj_greenShotgunDrone",
     "eventList": [
         {
-            "id": "145d7720-2e90-4d05-b7ee-05f1fd844429",
+            "id": "7dfa1c50-a377-4ebc-b784-cc716c004e5e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "35d782a1-4ab7-4844-b7c3-23ddb68360de"
+            "m_owner": "8b22102c-b9b8-4f50-997c-b381ddc1ba55"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
