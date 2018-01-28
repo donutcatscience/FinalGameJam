@@ -5,7 +5,7 @@
     "name": "obj_moon",
     "eventList": [
         {
-            "id": "442ba724-5c8b-45e9-878f-67f34323b1f9",
+            "id": "c4eca457-329a-4ecc-9a3f-afe7a9c53043",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "83880027-7aa5-45fb-bc5f-f7a3331551c5"
         },
         {
-            "id": "4a63f6a7-87c2-4b75-a739-6776d5d59934",
+            "id": "f73fbc5e-0614-43d2-899f-b2423d3a8b5b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "83880027-7aa5-45fb-bc5f-f7a3331551c5"
         },
         {
-            "id": "1b026d51-2b0e-4ac3-bccb-2883d13acb24",
+            "id": "740fadeb-a3c2-46a3-b29a-80cd9d7b25a6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

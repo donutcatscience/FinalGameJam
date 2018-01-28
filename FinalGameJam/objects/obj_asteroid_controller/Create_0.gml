@@ -1,1 +1,1 @@
-spawn_objects(obj_asteroid,18,500,.2,4)
+spawn_objects(obj_asteroid,18,500,.5,3)

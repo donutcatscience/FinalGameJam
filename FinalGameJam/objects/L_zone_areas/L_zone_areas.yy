@@ -5,7 +5,7 @@
     "name": "L_zone_areas",
     "eventList": [
         {
-            "id": "3b913210-39e1-483c-b9f1-d0de9a027b22",
+            "id": "97720d0c-a8a7-48eb-8af5-958313d7a264",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "d9ac334d-a674-48ec-969b-8c78237bce75"
         },
         {
-            "id": "440a1f1d-794d-4de8-9851-b1e7ac2d6cb4",
+            "id": "3a21ea64-5449-43c2-9e80-78cb2eb3e4d6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

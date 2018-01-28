@@ -1,28 +1,28 @@
 {
-    "id": "e7d1979a-6aa0-4fd7-9de7-09d1f808091d",
+    "id": "b550ebd3-7d43-4170-8ff2-6e50f74678d8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_planet_controller",
+    "name": "obj_comet",
     "eventList": [
         {
-            "id": "272e4447-8424-487e-8c7b-0ca168b569f6",
+            "id": "278ac709-af03-4649-825d-5dbe7cdce78c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "e7d1979a-6aa0-4fd7-9de7-09d1f808091d"
+            "m_owner": "b550ebd3-7d43-4170-8ff2-6e50f74678d8"
         },
         {
-            "id": "95f2abc5-ea56-4591-b351-6de8fad55a89",
+            "id": "10167f29-e4e1-47eb-9c53-cc8dca9d76ce",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 82,
-            "eventtype": 9,
-            "m_owner": "e7d1979a-6aa0-4fd7-9de7-09d1f808091d"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b550ebd3-7d43-4170-8ff2-6e50f74678d8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

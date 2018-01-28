@@ -24,6 +24,6 @@ for(i = 0; i < moons; i++)
 	{
 		body = other
 		orbit_distance = body.orbit_distance
-		orbit_speed = random_range(.5,2.5)
+		orbit_speed = random_range(.25,1)
 	}
 }

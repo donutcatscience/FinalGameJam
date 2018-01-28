@@ -5,7 +5,7 @@
     "name": "obj_planet_colony",
     "eventList": [
         {
-            "id": "cdb7f5a2-b0cd-4a78-979f-d43ced6b5472",
+            "id": "24ed8604-f4d2-430d-825b-2192f09964e3",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "41da4d27-8591-4db4-813e-eefd2b9000de"
         },
         {
-            "id": "05688fcc-079e-43f6-886c-6596d221d5f9",
+            "id": "4e2b6bf9-4f66-4062-a63d-0f7485ae5a74",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

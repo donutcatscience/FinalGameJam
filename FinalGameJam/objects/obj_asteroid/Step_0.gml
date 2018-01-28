@@ -1,6 +1,9 @@
 if(createStep)
 {
 	createStep = 0
+	if(!comet)
+	{
+	
 	if(point_distance(x,y,obj_planet_colony.x,obj_planet_colony.y) < 600) or (point_distance(x,y,obj_planet_transmission.x,obj_planet_transmission.y) < 600) instance_destroy()
 	
 	scale(random_range(.25,2))
@@ -38,11 +41,29 @@ if(createStep)
 	#endregion
 	
 	orbit_angle = random(360)
+	}
+	else
+	{
+		if(spawn_location)
+		{
+			hspeed = random_range(.1,2);
+			vspeed = random_range(-.1,-1.2);
+			
+		}
+		else
+		{
+			hspeed = random_range(-.1,-2);
+			vspeed = random_range(.1,1.2);
+			
+		}
+	}
 }
+if(!comet)
+{
+	orbit_angle += orbit_speed;
+	if(orbit_angle < 0) orbit_angle = 360 - orbit_angle;
+	if(orbit_angle > 360) orbit_angle = 0 + (orbit_angle - 360)
 
-orbit_angle += orbit_speed;
-if(orbit_angle < 0) orbit_angle = 360 - orbit_angle;
-if(orbit_angle > 360) orbit_angle = 0 + (orbit_angle - 360)
-
-x = body.x + lengthdir_x(orbit_distance,orbit_angle);
-y = body.y + lengthdir_y(orbit_distance,orbit_angle);
+	x = body.x + lengthdir_x(orbit_distance,orbit_angle);
+	y = body.y + lengthdir_y(orbit_distance,orbit_angle);
+}

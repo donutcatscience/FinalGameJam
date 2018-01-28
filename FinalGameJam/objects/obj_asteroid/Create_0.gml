@@ -16,4 +16,5 @@ scale(random_range(.75,1.5))
 
 
 orbit_distance = point_distance(x,y,body.x,body.y)
-orbit_speed = random_range(.5,2.5)
+orbit_speed = random_range(.1,.4)
+comet = 0
