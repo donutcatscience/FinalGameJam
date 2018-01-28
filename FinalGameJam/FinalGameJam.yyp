@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02c32f84-61e0-4189-a389-04338a0de053",
+            "Value": {
+                "id": "c21f36f7-d339-4a8a-a84e-8b03709bc285",
+                "resourcePath": "views\\02c32f84-61e0-4189-a389-04338a0de053.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "02e5f9cb-cc50-4f9e-aa9c-23312080c74d",
             "Value": {
                 "id": "9c6d0f30-dc78-470e-a514-5746b6446b9c",
@@ -340,6 +348,14 @@
                 "id": "15f08ca6-2ee1-459f-9719-90f9ae1e3fef",
                 "resourcePath": "sprites\\spr_bullet_3\\spr_bullet_3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "307cd44d-d18d-4a37-b781-ed43a2d515ec",
+            "Value": {
+                "id": "1444e895-466a-4c11-84f6-95f17959d91e",
+                "resourcePath": "objects\\obj_transHealthIcon\\obj_transHealthIcon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -903,6 +919,14 @@
             }
         },
         {
+            "Key": "a2bf9608-bd82-4e9e-b5c3-59b28857bbe1",
+            "Value": {
+                "id": "7bfc0804-5485-405e-ba9f-bd641c59cfbc",
+                "resourcePath": "views\\a2bf9608-bd82-4e9e-b5c3-59b28857bbe1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "67f59ed6-6d8d-472f-8907-7d7d8806e03d",
@@ -1332,6 +1356,14 @@
                 "id": "6fa07c8a-62c1-4526-a3e4-4c44da28575e",
                 "resourcePath": "views\\ebc251e1-1278-4d8d-ab40-cb73469c30a9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ec190cde-1acd-47f8-8f9a-a9697693e373",
+            "Value": {
+                "id": "c93b6f1c-dad8-41a4-a55e-e732b3ae8d91",
+                "resourcePath": "objects\\obj_redDroneDeploy\\obj_redDroneDeploy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
