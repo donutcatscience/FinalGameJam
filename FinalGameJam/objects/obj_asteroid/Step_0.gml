@@ -6,7 +6,7 @@ if(createStep)
 	
 	if(point_distance(x,y,obj_planet_colony.x,obj_planet_colony.y) < 600) or (point_distance(x,y,obj_planet_transmission.x,obj_planet_transmission.y) < 600) instance_destroy()
 	
-	scale(random_range(.25,2))
+	scale(random_range(1,3.5))
 	#region
 	switch(obj_planet_controller.layout)
 	{
@@ -44,6 +44,7 @@ if(createStep)
 	}
 	else
 	{
+		sprite_index = spr_comet
 		if(spawn_location)
 		{
 			hspeed = random_range(.1,2);

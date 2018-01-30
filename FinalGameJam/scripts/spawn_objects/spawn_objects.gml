@@ -14,7 +14,7 @@ randomize();
 
 for(i = 0; i < spawn_amount; i++)
 {
-	safeguard = 1000;
+	safeguard = 5000;
 	if(instance_exists(argument0))
 	{
 		while(point_distance(x_temp,y_temp,instance_nearest(x_temp,y_temp,argument0).x,instance_nearest(x_temp,y_temp,argument0).y) < proximity)

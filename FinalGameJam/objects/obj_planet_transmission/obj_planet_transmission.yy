@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_planet_transmission",
     "eventList": [
-        
+        {
+            "id": "96dc378c-f314-4395-b500-7adbf530be50",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "7a625cd9-5354-4f59-9d72-28efc15b66d4"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ed9d3554-ab79-4452-b85e-f213b280923d",
+    "spriteId": "c2348160-e10e-418a-b6aa-85ca43850785",
     "visible": true
 }

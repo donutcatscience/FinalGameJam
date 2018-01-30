@@ -5,7 +5,7 @@
     "name": "obj_uiTextController",
     "eventList": [
         {
-            "id": "5a39c900-2ef7-4480-987e-0aa1bb7347e4",
+            "id": "d187c918-9ad0-4baf-9228-5a84bcafa890",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "820b0710-718b-4a42-acf7-4caaf31d4573"
         },
         {
-            "id": "48439d4c-8edb-4b7c-b04d-c1efd7399ee9",
+            "id": "e30d4a8d-901b-493a-b1a5-de047d4128f1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

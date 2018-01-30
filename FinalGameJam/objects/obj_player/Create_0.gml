@@ -3,7 +3,7 @@
 
 //variables
 movement_speed = 0;
-accel_factor = 0.1;
+accel_factor = 0.2;
 deccel_factor = 0.15;
 
 //determining movement
